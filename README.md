@@ -2,4 +2,4 @@
 
  Function Component Dengan File Terpisah , Header , Body , Footer
 
-![tugas8](tg1.png)
+![tugas 1](tg1.png)
